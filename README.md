@@ -2,7 +2,7 @@
 ### UI/UX Designer | Android App Developer | Kotlin Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prashant-choudhary-33904b324)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Ansh-327)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Prashant4782)
 
 ---
 
