@@ -58,7 +58,7 @@ I love designing apps that are **simple, intuitive, and functional**.
 - Tested on multiple screen sizes for consistent UX.
 
 **Links:**  
-- GitHub: [link](https://github.com/Ansh-327/The_Notes_App)
+- GitHub: [link](https://github.com/Prashant4782/Notes_App.git)
 
 **Screenshots:**  
 
